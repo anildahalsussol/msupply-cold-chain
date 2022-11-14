@@ -1,4 +1,4 @@
-import { BtUtilService } from 'msupply-ble-service';
+import { BleService, BtUtilService } from 'msupply-ble-service';
 import {
   AcknowledgeBreachManager,
   CumulativeBreachManager,
